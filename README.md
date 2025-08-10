@@ -69,4 +69,5 @@ Code
     sudo nginx -t
     sudo systemctl reload nginx
 
+
 [⬆ Back to Top](#steps-to-configure-nginx-as-load-balancer)
